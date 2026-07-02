@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.intellinex.planist",
+      "sha256_cert_fingerprints": [
+        "8F:7F:FC:5D:FC:7B:07:22:6B:E6:39:FE:53:50:A4:30:8B:C5:76:35:38:1A:E6:A7:12:A2:04:70:EA:AB:E0:9C"
+      ]
+    }
+  }
+]
